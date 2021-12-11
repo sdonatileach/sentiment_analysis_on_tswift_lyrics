@@ -1,1 +1,11 @@
-# sentiment_analysis_on_tswift_lyrics
+# Sentiment Analysis on Taylor Swift Lyrics
+
+Packages required: 
+nltk
+sklearn
+pandas
+numpy
+re
+lyricsgenius
+keras
+Tensorflow
